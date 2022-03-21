@@ -2,4 +2,7 @@
 ### Instalación
 
 Se debe dar permisos de ejecución al archivo con
+
 `chmod +x teclado.py`
+
+Luego ejecutar con `./`
