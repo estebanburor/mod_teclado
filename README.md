@@ -8,4 +8,4 @@
 
 ### Persistencia
 
-Los cambios se perderan una vez que reinicies o apagues la maquina.
+Los cambios se perderán una vez que reinicies o apagues la máquina, por lo que al iniciar debes ejecutar el archivo.
