@@ -14,7 +14,7 @@ if resp.lower() == "s" or resp.lower() == "y":
     os.system("xmodmap -e 'keycode  12 = 3 periodcentered 3 periodcentered numbersign'")
     os.system("xmodmap -e 'keycode  21 = exclamdown questiondown NoSymbol NoSymbol NoSymbol'")
     os.system("xmodmap -e 'keycode  34 = dead_grave dead_circumflex dead_grave dead_circumflex bracketleft'")
-    os.system("xmodmap -e 'keycode  35 = plus asterisk plus asterisk bracketleft'")
+    os.system("xmodmap -e 'keycode  35 = plus asterisk plus asterisk bracketright'")
     os.system("xmodmap -e 'keycode  48 = dead_acute dead_diaeresis dead_acute dead_diaeresis braceleft'")
     os.system("xmodmap -e 'keycode  49 = less greater less greater NoSymbol'")
     os.system("xmodmap -e 'keycode  51 = ccedilla Ccedilla ccedilla Ccedilla braceright'")
