@@ -4,7 +4,7 @@
 1. Selecciona la distribución de **Español (latinoamericano)** en la configuración de **Región e Idioma** de Ubuntu 20.04
 2. Descarga el mod 
 ```
-git clone http://github.com/aburgoaor/mod_teclado
+git clone https://github.com/aburgoaor/mod_teclado
 ```
 3. Da permisos de ejecución al archivo **teclado_latino.py** 
 ```
