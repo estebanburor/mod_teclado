@@ -22,4 +22,5 @@ Los cambios se perderán una vez que reinicies o apagues la máquina, por lo que
 
 ### Notas
 
-Este script creado en Python 3, se hizo para un MacBook Pro mid 2013, al cual se le instaló Ubuntu 20.04. A día de hoy **NO se ha probado** en otra versión de Ubuntu por lo que no podemos asegurar que funcione en otra versión u otra distribución.
+Este script creado en Python 3, se hizo para un MacBook Pro mid 2013, al cual se le instaló Ubuntu 20.04. 
+A día de hoy **NO se ha probado** en otra versión de Ubuntu por lo que no podemos asegurar que funcione en otra versión u otra distribución.
