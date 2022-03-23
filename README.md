@@ -18,7 +18,7 @@ sudo ./teclado_latino.py
 
 ### Persistencia
 
-Los cambios se perderán una vez que reinicies o apagues la máquina, por lo que al iniciar debes ejecutar el archivo.
+Los cambios se perderán una vez que reinicies o apagues tu equipo, por lo que al iniciar debes ejecutar el archivo.
 
 #### Notas
 
