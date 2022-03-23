@@ -1,7 +1,7 @@
 ## Mod Teclado Español Latino para MacBook con Ubuntu 20.04
 ### Instalación
 
-1. Selecciona la distribución de **Español (Latinoamericano)** en la configuración de **Región e Idioma** de Ubuntu 20.04
+1. Selecciona la distribución de **Español (latinoamericano)** en la configuración de **Región e Idioma** de Ubuntu 20.04
 2. Descarga el mod 
 ```
 git clone http://github.com/aburgoaor/mod_teclado
