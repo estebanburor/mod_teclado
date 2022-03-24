@@ -9,7 +9,7 @@ git clone https://github.com/aburgoaor/mod_teclado
 3. Da permisos de ejecución al archivo **teclado_latino.py** 
 ```
 cd mod_teclado/
-chmod -u +x teclado_latino.py
+chmod +x teclado_latino.py
 ```
 4. Luego ejecuta el archivo como **admin**
 ```
